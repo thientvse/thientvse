@@ -2,7 +2,9 @@
 <p align="center">
 
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+[//]: ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+<a href="https://app.daily.dev/Thientvse"><img src="https://api.daily.dev/devcards/49408d21120f41f69e222d76a34f5cbd.png?r=n3e" width="400" alt="Thientvse's Dev Card"/></a>
 
 ### 🤵 About Me:
 - 🏦 I'm currently working for a healthcare based startup and telecom company.
