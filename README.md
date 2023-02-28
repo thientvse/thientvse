@@ -9,7 +9,7 @@
 ### 🤵 About Me:
 - 🏦 I'm currently working for a healthcare based startup and telecom company.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```, ReactJS ```, NodeJS 
+- 🤔 I use daily ```.java```,``` .py```, ```.sql```, MERN stack, Springboot
 - 🌱 I’m currently learning docker and kubernete
       
 [![Thientvse StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2537754)](https://stackoverflow.com/users/2537754/thientvse)
